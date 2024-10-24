@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning: **mysql, dsa**
 
-- ⚡ Fun fact: **I like to listen various type of songs**
+- ⚡ Fun fact: **I enjoy listening to different kinds of music.**
 
 <h3 align="left">Connect with me through:</h3>
 <p align="left">
