@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning: **mysql, dsa**
 
-- 📫 How to reach me **samarnayyar2005@gmail.com**
-
 - ⚡ Fun fact: **I like to listen various type of songs**
 
 <h3 align="left">Connect with me through:</h3>
