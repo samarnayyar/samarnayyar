@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Samar Nayyar</h1>
-<h3 align="center">Programmer | Leaner</h3>
+<h3 align="center">Programmer | Learner</h3>
 <img align="right" alt="Coding" width="350" src="https://codevidhya.com/wp-content/themes/divi-child/course_images/ythree/ythree_main_img.png">
 
 - 🔭 I’m currently working on **Student Information System**
