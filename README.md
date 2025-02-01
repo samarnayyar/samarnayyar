@@ -2,7 +2,7 @@
 <h3 align="center">Programmer | Learner</h3>
 <img align="right" alt="Coding" width="350" src="https://codevidhya.com/wp-content/themes/divi-child/course_images/ythree/ythree_main_img.png">
 
-- 🔭 I’m currently working on different projects such as**Student Information System**
+- 🔭 I’m currently working on different projects such as **Student Information System**
 
 - 🌱 I’m currently learning: **mysql, dsa, python, c, next.js etc.**
 
