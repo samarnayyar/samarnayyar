@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Samar Nayyar</h1>
 <h3 align="center">Programmer | Learner</h3>
-<img align="right" alt="Coding" width="350" src="https://codevidhya.com/wp-content/themes/divi-child/course_images/ythree/ythree_main_img.png">
+<img align="right" alt="Coding" width="350" src="https://cdni.iconscout.com/illustration/premium/thumb/male-coder-working-on-computer-illustration-download-in-svg-png-gif-file-formats--website-development-web-business-startup-launch-pack-illustrations-7963299.png">
 
 - 🔭 I’m currently working on different projects such as **Creating and Deploying a simple website**
 
