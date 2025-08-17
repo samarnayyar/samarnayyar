@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Samar Nayyar</h1>
 <h3 align="center">Programmer | Learner</h3>
-<img align="right" alt="Coding" width="350" src="https://cdni.iconscout.com/illustration/premium/thumb/male-coder-working-on-computer-illustration-download-in-svg-png-gif-file-formats--website-development-web-business-startup-launch-pack-illustrations-7963299.png">
+<img align="right" alt="Coding" width="350" src="https://cdni.iconscout.com/illustration/premium/thumb/male-coder-working-on-computer-illustration-download-in-svg-png-gif-file-formats--website-development-web-business-startup-launch-pack-illustrations-7963299.png" pointer-events="none" >
 
-- 🔭 I’m currently working on different projects such as **Creating and Deploying a simple website**
+- 🔭 I’m currently learning **Deep Learning**
 
-- 🌱 I’m currently learning: **Html, CSS, Javascript**
+- 🌱 Project I am working on : **A full-stack blog web application using MERN stack**
 
 </p>
 
