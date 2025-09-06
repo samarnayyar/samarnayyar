@@ -39,7 +39,4 @@
   <a href="#" style="pointer-events: none; cursor: default;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   </a>
-  <a href="#" style="pointer-events: none; cursor: default;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  </a>
 </p>
