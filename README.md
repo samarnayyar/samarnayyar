@@ -1,14 +1,12 @@
 <img align="right" alt="Coding" width="380" src="https://cdni.iconscout.com/illustration/premium/thumb/male-coder-working-on-computer-illustration-download-in-svg-png-gif-file-formats--developer-programming-coding-pack-design-development-illustrations-7963299.png"/>
 
 ## 💫 About Me
-- 🎓 3rd-year B.Tech CSE student specializing in **AI/ML** at UPES Dehradun (CGPA: 8.1)
+- 🎓 3rd-year B.Tech CSE student specializing in **AI/ML**
 - 🧠 Building **Wellcore** — an AI-powered multi-disease risk prediction platform with SHAP explainability
 - 🔭 Currently deep diving into **Deep Learning** and **Computer Vision**
 - 💻 Full-stack experience: **React + Flask + MongoDB** for production-ready applications
 - 🏥 Passionate about making AI interpretable and impactful in **Healthcare**
-- 💡 Research-oriented mindset — always asking *why* a model works, not just *if* it works
-- 🌱 Actively sharpening **C++ DSA** skills on LeetCode (arrays, two-pointers, backtracking)
-- 🌟 Open to research collaborations, internships, and opportunities in AI/ML
+- 🌟 Interested in research collaborations, internships, and opportunities in AI/ML
 
 ---
 
@@ -69,10 +67,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarnayyar&theme=dracula&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samarnayyar&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
