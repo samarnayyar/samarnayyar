@@ -1,6 +1,4 @@
-<table>
-<tr>
-<td valign="top" width="60%">
+<img align="right" alt="Coding" width="380" src="https://cdni.iconscout.com/illustration/premium/thumb/male-coder-working-on-computer-illustration-download-in-svg-png-gif-file-formats--developer-programming-coding-pack-design-development-illustrations-7963299.png"/>
 
 ## 💫 About Me
 - 🎓 3rd-year B.Tech CSE student specializing in **AI/ML** at UPES Dehradun (CGPA: 8.1)
@@ -11,15 +9,6 @@
 - 💡 Research-oriented mindset — always asking *why* a model works, not just *if* it works
 - 🌱 Actively sharpening **C++ DSA** skills on LeetCode (arrays, two-pointers, backtracking)
 - 🌟 Open to research collaborations, internships, and opportunities in AI/ML
-
-</td>
-<td valign="middle" width="40%">
-
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/male-coder-working-on-computer-illustration-download-in-svg-png-gif-file-formats--developer-programming-coding-pack-design-development-illustrations-7963299.png" alt="Coding illustration" width="100%"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
